@@ -1,2 +1,3 @@
 a="congratulations"
-print(a.upper())
+b=(a.upper())
+print(b)
